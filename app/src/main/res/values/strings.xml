@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">praticandoMais</string>
+    <string name="txtBtnNotify">Notificar</string>
+    <string name="txtDica">intervalo(min)</string>
+    <string name="txtDicaDoIntevalo">Insira no espaço abaixo o intervalo de tempo que deseja ser lembrado</string>
+    <string name="error_msg">Digite o Intervalo</string>
+    <string name="pause">pausar</string>
+</resources>

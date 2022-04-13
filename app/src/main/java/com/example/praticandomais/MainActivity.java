@@ -47,6 +47,6 @@ public class MainActivity extends AppCompatActivity {
         minute = timePicker.getCurrentMinute();
         interval = Integer.parseInt(sInterval);
 
-        Log.d("teste","Hora: "+hour+", minutos: "+minute+", interval: "+interval+"minutos");
+        Log.d("teste","Hora: "+hour+", minutos: "+minute+", interval: "+interval+"min");
     }
 }
